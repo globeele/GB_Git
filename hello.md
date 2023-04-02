@@ -2,4 +2,5 @@ Hello world
 
 Git education
 
-*Курсив*
+*Курсив.*
+**Полужирный.**
